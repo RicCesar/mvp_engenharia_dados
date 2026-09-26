@@ -1,8 +1,11 @@
 # MVP - Engenharia de Dados: análise de séries de TV
 
 **Autor:** [RicCesar](https://github.com/RicCesar) 
+
 **Aluno:** Ricardo César Santos Mendes Costa
+
 **Curso:** Pós-graduação em Data Science & Analytics - PUC-Rio  
+
 **Plataforma:** Databricks, Unity Catalog, PySpark e Delta Lake
 
 ## Sobre o projeto
