@@ -8,10 +8,6 @@
 
 **Plataforma:** Databricks, Unity Catalog, PySpark e Delta Lake
 
-## Dashboard
-
-[Visualizar o dashboard de análise de séries de TV](https://dbc-590656f6-7738.cloud.databricks.com/embed/dashboardsv3/01f1ba9237051ad095daed7d2037caab?o=7474650398740679)
-
 ## Sobre o projeto
 
 Gosto de séries de TV e, neste MVP da Sprint de Engenharia de Dados, encontrei uma ótima oportunidade de transformar esse interesse em uma análise de dados. O projeto compara nove séries a partir de informações sobre episódios, datas de exibição, audiência nos Estados Unidos e avaliações do IMDb.
